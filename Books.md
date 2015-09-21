@@ -1,3 +1,0 @@
-## Books
-* Richard Jones, A. Hosking, E. Moss (2011); The Garbage Collection Handbook: The Art of Automatic Memory Management; Chapman & Hall/CRC; ([Amazon](http://www.amazon.com/The-Garbage-Collection-Handbook-Management/dp/1420082795), [Content](The_Garbage_Collection_Handbook.pdf), [Bibliography](http://www.cs.kent.ac.uk/people/staff/rej/gcbib/))
-* Richard Jones, Rafael D Lins (1996); Garbage Collection: Algorithms for Automatic Dynamic Memory Management, Wiley  
