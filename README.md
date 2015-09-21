@@ -13,4 +13,9 @@
 
 
 ## Languages/Platforms
-* [JVM](languages/java)
+* [Erlang](https://github.com/memgc/docs/tree/master/lanuages/erlang)
+* [Go](https://github.com/memgc/docs/tree/master/lanuages/golang)
+* [JVM](https://github.com/memgc/docs/tree/master/lanuages/java)
+* [Lisp](https://github.com/memgc/docs/tree/master/lanuages/lisp)
+* [Ruby](https://github.com/memgc/docs/tree/master/lanuages/ruby)
+* [Rust](https://github.com/memgc/docs/tree/master/lanuages/rust)
