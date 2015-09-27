@@ -11,6 +11,7 @@
 
 * [Visualizing Garbage Collection Algorithms](http://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/); 2014.09.03; KEN FOX;
 * [Correctness-Preserving Derivation of Concurrent Garbage Collection Algorithms](https://www.dropbox.com/s/pec6c48x7l2pq9l/Correctness-Preserving%20Derivation%20of%20Concurrent%20Garbage%20Collection%20Algorithms.pdf?dl=1); 2006; Martin T. Vechev, Eran Yahav, David F. Bacon
+* [METIS: A Smart Memory Allocator Using Historical Reclamation Information](https://www.dropbox.com/s/ndc4xes72kt3fdz/METIS%20A%20Smart%20Memory%20Allocator%20Using%20Historical%20Reclamation%20Information.pdf?dl=1); ?; Shijie Xu, Qi Guo, Gerhard Dueck, David Bremner, Yang Wang
 * [Garbage Collection Techniques for Flash-Resident Page-Mapping FTLs](https://www.dropbox.com/s/tcjftztvz6hoqdh/Garbage%20Collection%20Techniques%20for%20Flash-Resident%20Page-Mapping%20FTLs.pdf?dl=1); 2015; Niv Dayan, Philippe Bonnet
 * [A Novel Design of a Parallel Machine Learnt Generational Garbage Collector](https://www.dropbox.com/s/5ko4odjjk60of71/A%20Novel%20Design%20of%20a%20Parallel%20Machine%20Learnt%20Generational%20Garbage%20Collector.pdf?dl=1); 2015; Vasanthakumar Soundararajan
 * [Garbage Collection for Multicore NUMA Machines](https://www.dropbox.com/s/24ejn6qkzbwhv6g/Garbage%20Collection%20for%20Multicore%20NUMA%20Machines.pdf?dl=1); 2011; Sven Auhagen, Lars Bergstrom, Matthew Fluet, John Reppy
