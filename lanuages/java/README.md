@@ -21,6 +21,12 @@
 ### Two-region collectors
 #### Concurrent Mark Sweep (CMS)
 
+### Device specific
+#### Dalvik Virtual Machine
+* [Stackoverflow: Technical details of Android Garbage Collector](http://stackoverflow.com/questions/4818869/technical-details-of-android-garbage-collector)
+* [Quora: ](https://www.quora.com/How-does-garbage-collection-work-in-Android-4-2-Jelly-Bean-Dalvik-please-see-the-comment)
+* [Android 4.3 GC Sources](https://android.googlesource.com/platform/dalvik.git/+/android-4.3_r2/vm/alloc/MarkSweep.cpp)
+
 ## Benchmarking
 
 * [SPECjvm2008](https://www.spec.org/jvm2008/)
