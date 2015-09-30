@@ -1,7 +1,8 @@
 ## Books
 
 * The Garbage Collection Handbook: The Art of Automatic Memory Management; 2011; Richard Jones, A. Hosking, E. Moss; Chapman & Hall/CRC; ([Amazon](http://www.amazon.com/The-Garbage-Collection-Handbook-Management/dp/1420082795), [Content](The_Garbage_Collection_Handbook.pdf), [Bibliography](http://www.cs.kent.ac.uk/people/staff/rej/gcbib/))
-* Garbage Collection: Algorithms for Automatic Dynamic Memory Management; 1996; Richard Jones, Rafael D Lins; Wiley  
+* Garbage Collection: Algorithms for Automatic Dynamic Memory Management; 1996; Richard Jones, Rafael D Lins; Wiley
+* Memory Management Algorithms And Implementation In C/C++ (Windows Programming/Development); 2002; Bill Blunden; ([Amazon](http://www.amazon.com/Management-Algorithms-Implementation-Programming-Development/dp/1556223471/ref=sr_1_fkmr0_1?ie=UTF8&qid=1443767274&sr=8-1-fkmr0&keywords=Memory+Management+Algorithms+and+Implementation+in+Cpp)) 
 
 ## Presentations
 
