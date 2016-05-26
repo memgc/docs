@@ -30,3 +30,7 @@
 ## Benchmarking
 
 * [SPECjvm2008](https://www.spec.org/jvm2008/)
+
+
+## Articles
+* [GC 'Nepotism' And Linked Queues](http://psy-lob-saw.blogspot.com.by/2016/03/gc-nepotism-and-linked-queues.html)
